@@ -55,7 +55,7 @@ carbon-footprint-prediction/
 Prediction:
 Use your trained model to make predictions on new data.
 
-##📊 Model Performance
+### 📊 Model Performance
 You can evaluate performance using metrics such as:
 
 RMSE (Root Mean Squared Error)
@@ -64,7 +64,7 @@ MAE (Mean Absolute Error)
 
 R² Score
 
-##✅ Future Improvements
+### ✅ Future Improvements
 Integrate a real-time carbon footprint calculator web app.
 
 Include regional emission factors for more accurate modeling.
