@@ -37,8 +37,8 @@ We engineer a variety of features to enhance model performance and interpretabil
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/carbon-footprint-prediction.git
-   cd carbon-footprint-prediction
+   git clone https://github.com/mitravarun123/carbon-foot-print-prediction.git
+   cd carbon-foot-print-prediction
 
 📂 File Structure
 bash
